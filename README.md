@@ -34,9 +34,9 @@ If the folder path is specified, a trailing backslash is required.
 #
 ### Priorities 
 
-The 64-bit Starter will prefer AutoIt3_x64.exe, unless otherwise specified in the INI file. 
+64-bit-Starter will prefer AutoIt3_x64.exe, unless otherwise specified in the INI file. 
 
-The compiled .a3x script takes precedence over the uncompiled .au3 script, unless otherwise specified in the INI file.
+Starter will prefer compiled .a3x, unless otherwise specified in the INI file.
 
 #
 ### Download 
