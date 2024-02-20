@@ -40,6 +40,7 @@ The Starter-file and the Script-file must have the same name (any name).
         AutoIt3_x64.exe
 
 <Starter.ini>
+│
 [Starter]
 AutoItPath=AutoIt_v3.3.16.1\
 ScriptPath=AutoIt_Scripts\Script.au3
