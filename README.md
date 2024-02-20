@@ -37,8 +37,3 @@ If the folder path is specified, a trailing backslash is required.
 64-bit-Starter will prefer AutoIt3_x64.exe, unless otherwise specified in the INI file. 
 
 Starter will prefer compiled .a3x, unless otherwise specified in the INI file.
-
-#
-### Download 
-
-[AutoIt3 Script Starter v1.0](https://github.com/coderemaster/AutoIt3-Script-Starter/releases/tag/Starter_v1.0)
